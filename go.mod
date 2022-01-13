@@ -1,4 +1,4 @@
-module simple-goroutine-local
+module github.com/polarbear567/simple-goroutine-local
 
 go 1.16
 
