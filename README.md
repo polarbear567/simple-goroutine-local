@@ -66,6 +66,6 @@ main, value after delete: <nil>, value exist: false
 main, map exist: false
 ```
 
-### Tip
+## Tip
 Since goroutine may be reused, please make sure to explicitly set in the current goroutine before get, or delete the key before the end of the current goroutine.
 
